@@ -2,7 +2,7 @@
 <h3>Savvy Integration for Opencart</h3>
 
 <h3>What is this repo?</h3>
-This repo contains a payment plugin for WooCommerce shopping cart to support crypto currencies via Savvy. Supported currencies are Bitcoin, Bitcoin Cash, Bitcoin Gold, Ethereum, Ethereum Classic, Litecoin, Dash, Dai, and Binance Coin.
+This repo contains a payment plugin for OpenCart shopping cart to support crypto currencies via Savvy. Supported currencies are Bitcoin, Bitcoin Cash, Bitcoin Gold, Ethereum, Ethereum Classic, Litecoin, Dash, Dai, and Binance Coin.
 
 Users have the opportunity to manage the currencies they would like to accept in their settings at https://www.savvy.io
 
@@ -12,7 +12,7 @@ You’re in the right place if you’re a developer or a shop owner looking to i
 Attention to PayBear users: if you have PayBear plugin installed, please [read this](https://github.com/savvytechcom/savvy-samples/wiki/Upgrading-from-V2-to-V3)
 
 <h3>Prerequisites</h3>
-Before installing the plugin please make sure you have the latest version of Opencart installed. We support version 3.x
+Before installing the plugin please make sure you have the latest version of OpenCart installed. We support version 3.x
 
 In order to use the plugin you will also need a Savvy API Key. Getting a key is free and easy:
 
@@ -25,9 +25,9 @@ In order to use the plugin you will also need a Savvy API Key. Getting a key is 
  
 <h3>How to install</h3>
 
-1. Make sure you have Opencart installed. We recommend running the latest version.
+1. Make sure you have OpenCart installed. We recommend running the latest version.
 2. Download the latest version of the integration: https://github.com/savvytechcom/savvy-opencart/releases/latest
-3. Open Opencart Admin - {Extensions} - {Installer}
+3. Open OpenCart Admin - {Extensions} - {Installer}
 4. Click {Upload} and select the ZIP file of the plugin
 5. Click {Extensions} - {Extensions} and select {Payment} from the dropdown.
 6. Find {Crypto Payments by Savvytech.com} and click {Install}
